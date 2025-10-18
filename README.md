@@ -79,9 +79,9 @@ This laboratory focuses on linguistic analysis and morphological features:
    - Computing and visualizing noun frequencies
    - Understanding lexical richness in literary texts
 
-5. **TF-IDF with Wordcloud Visualization (4)**
+5. **TF-IDF with Word Cloud Visualization (4)**
    - Applying TF-IDF to nouns
-   - Creating wordcloud visualizations
+   - Creating word cloud visualizations
    - Identifying key thematic terms in documents
 
 6. **Semantic Ambiguity Analysis (5)**
@@ -103,7 +103,7 @@ This laboratory focuses on linguistic analysis and morphological features:
 - **spaCy** - Industrial-strength NLP for morphological analysis
 - **pandas** - Data manipulation and analysis
 - **matplotlib/seaborn** - Data visualization
-- **wordcloud** - Word cloud generation
+- **wordcloud** - word cloud generation
 - **requests** - HTTP library for downloading texts
 
 ## Usage
