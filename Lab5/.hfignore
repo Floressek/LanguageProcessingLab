@@ -1,0 +1,13 @@
+.venv/
+.git/
+**/__pycache__/
+**/*.pyc
+**/*.pyd
+**/*.so
+**/*.parquet
+**/*.zip
+**/*.whl
+data/
+datasets/
+notebooks/
+tests/
