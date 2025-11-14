@@ -97,6 +97,8 @@ This laboratory focuses on linguistic analysis and morphological features:
 
 ### Lab 5: Fine tuning bert-distilbert models with amazon-review sentiment analysis
 
+> Model on hugginhface: https://huggingface.co/Floressek/sentiment_classification_from_distillbert
+
 ## Technologies Used
 
 - **Python 3.x**
