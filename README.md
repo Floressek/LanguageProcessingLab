@@ -95,6 +95,8 @@ This laboratory focuses on linguistic analysis and morphological features:
    - Analyzing subject-verb collocations
    - Understanding syntactic dependencies
 
+### Lab 5: Fine tuning bert-distilbert models with amazon-review sentiment analysis
+
 ## Technologies Used
 
 - **Python 3.x**
